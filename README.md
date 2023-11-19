@@ -1,3 +1,7 @@
-# beecrowd-c
-beecrowd problems solved using c
+# beecrowd
+.
+.
+beecrowd problems solved
+.
+.
 Author: Sadati Sadik Pranto
