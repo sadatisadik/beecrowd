@@ -1,6 +1,5 @@
 # beecrowd
-.
-.
+
 beecrowd problems solved
 .
 .
