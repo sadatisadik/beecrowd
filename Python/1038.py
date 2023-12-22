@@ -1,4 +1,4 @@
-x,y=[int(x) for x in input().split()]
+x,y=map(int,input().split())
 
 if x==1:
     p=4.0*y

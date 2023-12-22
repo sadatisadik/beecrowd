@@ -1,5 +1,5 @@
 import math
-a,b,c=[float(x) for x in input().split()]
+a,b,c=map(float,input().split())
 d=pow(b,2)-4*a*c
 if a==0 or d<0:
     print("Impossivel calcular")
